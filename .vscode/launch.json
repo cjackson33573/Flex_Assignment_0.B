@@ -4,10 +4,11 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index.html",
+            "name": "Launch Chrome against localhost",
             "file": "c:\\Users\\chris\\Bootcamp_Workspace\\Flex_Assignment_0.B\\index.html"
         }
     ]
