@@ -10,7 +10,6 @@ body {
 .footer {
     display: flex;
     flex: 1;
-    background-color:black;
     padding: 3px; 
 }
 
@@ -162,7 +161,7 @@ body {
 
 /* Footer */
 .footer {
-
+    background-color:black;
     padding: 3px
 }
 
